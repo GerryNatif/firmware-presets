@@ -8245,12 +8245,13 @@
     },
     {
       "fullPath": "presets/4.5/rates/GerryFPV-Rates.txt",
-      "hash": "efa1b1a8b99c4531b63f34aceb2fd04c829776baf89856e6833376631e08f40a",
+      "hash": "e65f3b2a641195b5d4648facf72dbd8405bbf5c26e6f6ecba30362a538ca455c",
       "title": "GerryFPV - Rates",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "RATES",
       "status": "EXPERIMENTAL",
